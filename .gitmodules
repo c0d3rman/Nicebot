@@ -1,0 +1,3 @@
+[submodule "textlytics"]
+	path = textlytics
+	url = https://github.com/laugustyniak/textlytics.git
